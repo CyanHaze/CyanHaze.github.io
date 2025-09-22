@@ -1,0 +1,8 @@
+#[Info]
+site_name: Xi's blog #your site name 显示在左上角
+site_url: http://zjutopologist.github.io # your site url
+site_description: 融化她，锡做的的脸颊
+site_author: Xi # your name
+#[UI]
+theme:
+  name: material
