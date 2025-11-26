@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "avatar.jpg"
   name             : "Cyan Chi"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate @ ZJU"
@@ -231,6 +231,12 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  journal:
+    output: true
+    permalink: /:collection/:path/
+  note:
     output: true
     permalink: /:collection/:path/
 
