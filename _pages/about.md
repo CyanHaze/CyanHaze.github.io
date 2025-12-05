@@ -15,7 +15,7 @@ My academic interests lie at the intersection of Robotics and Embodied AI, with 
 
 Currently, I involve in research projects related to robot perception and navigation in CAD&CG Lab at ZJU supervised by Prof. Cui.
 
-Outside of academics, I have a passion for music especially the genre of Math Rock, Post Rock, Midwest Emo and Fusion Jazz. I am dedicated to form a band in the future and create my own music. I also enjoy reading novels and watching movies during my leisure time. Nolan and GanBi are my favorite directors.
+Outside of academics, I have a passion for music especially the genre of Math Rock, Post Rock, Midwest Emo and Fusion Jazz. I am dedicated to form a band in the future and create my own music. I also enjoy reading novels and watching movies during my leisure time. Nolan and GanBi are my favorite directors. And welcome to follow my CC98 account [CyanHaze@CC98](https://www.cc98.org/user/id/759680) for more updates about me!
 
 Education
 ======

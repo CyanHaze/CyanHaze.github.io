@@ -236,7 +236,7 @@ collections:
   journal:
     output: true
     permalink: /:collection/:path/
-  note:
+  notes:
     output: true
     permalink: /:collection/:path/
 
@@ -294,6 +294,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+      
+  - scope:
+      path: ""
+      type: notes  
+    values:
+      layout: single
       author_profile: true
       share: true
 
