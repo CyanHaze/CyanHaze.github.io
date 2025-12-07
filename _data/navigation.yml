@@ -25,6 +25,11 @@ main:
 
   - title: "Life"
     url: /life/
+    children: 
+      - title: "Music"
+        url: /life/music/
+      - title: "Reading"
+        url: /life/reading/
     
   # - title: "Talks"
   #  url: /talks/    
