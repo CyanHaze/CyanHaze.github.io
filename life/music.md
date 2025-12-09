@@ -12,7 +12,26 @@ Music is not just background noise to me; it's a structure of logic and emotion,
 
 ---
 
-<!-- === 专辑 1 开始 (Math Rock) === -->
+<!-- === 专辑 3 开始 (VISTA) === -->
+<div style="display: flex; gap: 25px; margin-bottom: 40px; align-items: flex-start;">
+  <div style="flex: 0 0 160px;">
+    <!-- 修改图片文件名 -->
+    <img src="/life/album/VISTA.jpg" style="width: 100%; border-radius: 6px; box-shadow: 0 5px 15px rgba(0,0,0,0.15);">
+  </div>
+  <div style="flex: 1;">
+    <!-- 修改标题 -->
+    <h3 style="margin-top: 0; margin-bottom: 5px;">toconoma - VISTA</h3>
+    <p style="font-size: 0.9em; color: #666; margin-bottom: 10px;">
+      <b>Genre:</b> Math Rock / Fusion Jazz <br>
+    </p>
+    <!-- 修改乐评 -->
+    <p>For some reason I hold a special attachment to this album. It was at the Xihu Music Festival on Nov 1, 2024, that I first saw this band. And I purchased my first disc in my life right after their set. There weren't many copies left, and my friend chose this for me. After long time, I gave it as a gift to a girl I once love. On 2025.7.19 when I raced from SJTU to Vas for their live show arriving at 7:56, only 4 minutes spare. Fate, it seemed, had kept the last copy waiting for me. There it was, right in front of my eyes: VISTA.</p>
+  </div>
+</div>
+<!-- === 专辑 3 结束 === -->
+
+
+<!-- === 专辑 2 开始 (For Long Tomorrow) === -->
 <div style="display: flex; gap: 25px; margin-bottom: 40px; align-items: flex-start;">
   <!-- 左侧封面 -->
   <div style="flex: 0 0 160px;">
@@ -34,10 +53,11 @@ Music is not just background noise to me; it's a structure of logic and emotion,
     </p>
   </div>
 </div>
-<!-- === 专辑 1 结束 === -->
+<!-- === 专辑 2 结束 === -->
+
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
-<!-- === 专辑 2 开始 === -->
+<!-- === 专辑 1 开始 (American Football) === -->
 
 <div style="display: flex; gap: 25px; margin-bottom: 40px; align-items: flex-start;">
   <div style="flex: 0 0 160px;">
@@ -55,7 +75,7 @@ Music is not just background noise to me; it's a structure of logic and emotion,
     </p>
   </div>
 </div>
-<!-- === 专辑 2 结束 === -->
+<!-- === 专辑 1 结束 === -->
 
 ---
 
@@ -68,6 +88,9 @@ Just enjoy it.
 
 - **toconoma** - 2025.7.19 Live at Vas in Shanghai 
   > One of my favorite math rock or fusion jazz band in Japan. With full of energy and passion, everyone will be moved by their performance. When i first saw their live, there were two people dancing in front of me. Just for relax and pure joy.
+
+- **Fayzz** - 2025.11.21 Live at EchoSpace in Hangzhou
+  > One of the best math rock band in China. Their live performance just like their music, full of restrain and calmness. That was a down time for me and their music simulated me a lot. And a idea inside their new album "Patch" comes from a concept of Computer Vision which called Advesarial-Patch-Attack.
 
 
 
