@@ -25,7 +25,7 @@ permalink: /misc/ROS2 Command
 *   **查看当前运行的所有节点**: `ros2 node list`
 *   **查看特定节点的详细信息**: `ros2 node info <node_name>`
 
-### 📡 Topics (话题 - 最核心部分)
+### 📡 Topics (话题)
 
 *   **列出所有话题**: `ros2 topic list`
 *   **查看话题数据内容 (实时)**: `ros2 topic echo <topic_name>`

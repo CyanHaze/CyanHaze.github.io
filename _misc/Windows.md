@@ -6,7 +6,7 @@ collection: misc
 permalink: /misc/Windows Command
 ---
 
-# Windows Shortcut key
+# Windows Shortcut Key
 
 ### 基本快捷键
 
