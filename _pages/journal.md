@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Here I document my monthly learning progress and thoughts.
+Here I document my monthly thoughts and my daily life.
 
 {% for post in site.journal reversed %}
   {% include archive-single.html %}

@@ -30,12 +30,12 @@ main:
         url: /life/music/
       - title: "Reading"
         url: /life/reading/
+
+  - title: "Learning"
+    url: /learning/
     
   # - title: "Talks"
   #  url: /talks/    
-
-  # - title: "Teaching"
-  #  url: /teaching/    
     
   # - title: "Portfolio"
   #  url: /portfolio/
