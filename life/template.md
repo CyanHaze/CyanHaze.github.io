@@ -17,3 +17,35 @@
 </div>
 
 <!-- === 专辑 3 开始 (VISTA) === -->
+
+
+
+
+<!-- === 书籍 1: 克林索尔的最后夏天 === -->
+<div style="margin-bottom: 50px;">
+  <!-- 1. 书名 -->
+  <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.4em; color: #2c3e50;">
+    书名 Book Title
+  </h3>
+  <!-- 2. 作者 -->
+  <p style="color: #7f8c8d; font-size: 0.9em; margin-bottom: 15px; letter-spacing: 0.5px;">
+    AUTHOR NAME
+  </p>
+
+  <!-- 3. 摘录 (可修改 border-left 颜色) -->
+  <div style="background-color: #f8f9fa; border-left: 4px solid #52adc8; padding: 15px 20px; margin-bottom: 20px; border-radius: 0 4px 4px 0;">
+    <p style="margin: 0; font-family: Georgia, 'Times New Roman', serif; font-style: italic; color: #555; font-size: 1.05em; line-height: 1.6; text-align: justify; ">
+      <span style="font-size: 1.5em; vertical-align: middle; color: #52adc8; line-height: 0;">❝</span>
+      在这里填入书中你最喜欢的一句话...
+      <br>
+    </p>
+  </div>
+
+  <!-- 4. 你的评论 -->
+  <p style="line-height: 1.7;">
+    在这里写下你的读后感...
+  </p>
+</div>
+
+<hr style="border: 0; border-top: 1px dashed #ddd; margin: 40px 0;">
+<!-- === 书籍 1: 克林索尔的最后夏天 === -->
