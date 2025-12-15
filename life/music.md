@@ -49,7 +49,7 @@ Music is not just background noise to me; it's a structure of logic and emotion,
       <b>Release:</b> 2020
     </p>
     <!-- 修改乐评 -->
-    <p>For some reason I hold a special attachment to this album. It was at the Xihu Music Festival on Nov 1, 2024, that I first saw this band. And I purchased my first disc in my life right after their set. There weren't many copies left, and my friend chose this for me. After long time, I gave it as a gift to a girl I once love. On 2025.7.19 when I raced from SJTU to Vas for their live show arriving at 7:56, only 4 minutes spare. Fate, it seemed, had kept the last copy waiting for me. There it was, right in front of my eyes: VISTA.</p>
+    <p>For some reason I hold a special attachment to this album. It was at the Xihu Music Festival on Nov 1, 2024, that I first saw this band. And I purchased my first disc in my life right after their set. There weren't many copies left, and my friend chose this for me. After long time, I gave it as a gift to a girl. On 2025.7.19 when I raced from SJTU to Vas for their live show arriving at 7:56, only 4 minutes spare. Fate, it seemed, had kept the last copy waiting for me. There it was, right in front of my eyes: VISTA.</p>
   </div>
 </div>
 <!-- === 专辑 3 结束 === -->
