@@ -12,6 +12,29 @@ Music is not just background noise to me; it's a structure of logic and emotion,
 
 ---
 
+<!-- === 专辑 4 开始 (Racing Mount Pleasant) === -->
+
+<div style="display: flex; gap: 25px; margin-bottom: 40px; align-items: flex-start;">
+  <div style="flex: 0 0 160px;">
+    <!-- 修改图片文件名 -->
+    <img src="/life/album/Racing Mount Pleasant.jpg" style="width: 100%; border-radius: 6px; box-shadow: 0 5px 15px rgba(0,0,0,0.15);">
+  </div>
+  <div style="flex: 1;">
+    <!-- 修改标题 -->
+    <h3 style="margin-top: 0; margin-bottom: 5px;">Racing Mount Pleasant - Racing Mount Pleasant</h3>
+    <p style="font-size: 0.9em; color: #666; margin-bottom: 10px;">
+      <b>Genre:</b> Indie Rock / Post Rock / Art Rock <br>
+      <b>Release:</b> 2025
+    </p>
+    <!-- 修改乐评 -->
+    <p>It's the first album I love on Indie Rock. Come from UMich, this band mainly composed of undergraduate students. With complex rhythms and some jazz elements, their music is both intricate and accessible. It makes a great balance between the emotional expression and the softness. Without any exaggeration, it's the best Indie Rock album in my mind this year.
+    </p>
+  </div>
+</div>
+
+
+<!-- === 专辑 4 开始 (Racing Mount Pleasant) === -->
+
 <!-- === 专辑 3 开始 (VISTA) === -->
 <div style="display: flex; gap: 25px; margin-bottom: 40px; align-items: flex-start;">
   <div style="flex: 0 0 160px;">
@@ -23,6 +46,7 @@ Music is not just background noise to me; it's a structure of logic and emotion,
     <h3 style="margin-top: 0; margin-bottom: 5px;">toconoma - VISTA</h3>
     <p style="font-size: 0.9em; color: #666; margin-bottom: 10px;">
       <b>Genre:</b> Math Rock / Fusion Jazz <br>
+      <b>Release:</b> 2020
     </p>
     <!-- 修改乐评 -->
     <p>For some reason I hold a special attachment to this album. It was at the Xihu Music Festival on Nov 1, 2024, that I first saw this band. And I purchased my first disc in my life right after their set. There weren't many copies left, and my friend chose this for me. After long time, I gave it as a gift to a girl I once love. On 2025.7.19 when I raced from SJTU to Vas for their live show arriving at 7:56, only 4 minutes spare. Fate, it seemed, had kept the last copy waiting for me. There it was, right in front of my eyes: VISTA.</p>
@@ -55,10 +79,7 @@ Music is not just background noise to me; it's a structure of logic and emotion,
 </div>
 <!-- === 专辑 2 结束 === -->
 
-
-<hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
 <!-- === 专辑 1 开始 (American Football) === -->
-
 <div style="display: flex; gap: 25px; margin-bottom: 40px; align-items: flex-start;">
   <div style="flex: 0 0 160px;">
     <img src="/life/album/American Football.jpg" alt="Placeholder" style="width: 100%; border-radius: 6px; box-shadow: 0 5px 15px rgba(0,0,0,0.15);">
@@ -92,6 +113,8 @@ Just enjoy it.
 - **Fayzz** - 2025.11.21 Live at EchoSpace in Hangzhou
   > One of the best math rock band in China. Their live performance just like their music, full of restrain and calmness. That was a down time for me and their music simulated me a lot. And a idea inside their new album "Patch" comes from a concept of Computer Vision which called Advesarial-Patch-Attack.
 
+- **Tiny Moving Parts** - 2025.1.11 Live at EchoSpace in Hangzhou
+  > Midwest Emo band from Minnesota. Full of energy and passion. The encore song was "Medicine", and everyone sang together. I still remember that night. That was just after my finals, an exhausting week and I almost messed up everything then. Their music healed me a lot.
 
 
 <a href="/life/" class="btn btn--inverse">← Back to Life Hub</a>
