@@ -21,8 +21,6 @@ I enjoy **Math Rock**, **Fusion Jazz**, and exploring fundamental knowledge thro
     <br>
     <a href="/life/music/" class="btn btn--info btn--large">Enter Music Room</a>
   </div>
-
-
   <!-- Reading 卡片 -->
   <div style="flex: 1; min-width: 280px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 25px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.05); transition: transform 0.2s;">
     <h3 style="margin-top: 0;">📚 Reading List</h3>
@@ -32,7 +30,7 @@ I enjoy **Math Rock**, **Fusion Jazz**, and exploring fundamental knowledge thro
     <br>
     <a href="/life/reading/" class="btn btn--info btn--large">Check Bookshelf</a>
   </div>
-  
+
     <!-- Movies 卡片 -->
   <div style="flex: 1; min-width: 280px; border: 1px solid #e0e0e0; border-radius: 8px; padding: 25px; text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.05); transition: transform 0.2s;">
     <h3 style="margin-top: 0;">🎬 Movie List</h3>

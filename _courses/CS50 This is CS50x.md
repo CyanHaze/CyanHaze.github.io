@@ -2,10 +2,16 @@
 title: "CS50: This is CS50x"
 layout: single       
 author_profile: true 
-collection: learning
+collection: courses
+tags: [CS]
+school: "Harvard University"
 date: 2025-07-25
-permalink: /learning/CS50-This-is-CS50x
+permalink: /learning/courses/CS50-This-is-CS50x
+code: "CS50"
+excerpt: "An intro to coding world"
 ---
+
+
 
 # CS50: This is CS50x
 

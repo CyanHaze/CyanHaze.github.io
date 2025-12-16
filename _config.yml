@@ -239,9 +239,15 @@ collections:
   misc:
     output: true
     permalink: /:collection/:path/
-  learning:
+  # learning:
+  #   output: true
+  #   permalink: /:collection/:path/
+  courses:
     output: true
-    permalink: /:collection/:path/
+    permalink: /learning/courses/:path/
+  textbooks:
+    output: true
+    permalink: /learning/textbooks/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -307,6 +313,24 @@ defaults:
       layout: single
       author_profile: true
       share: true
+
+  - scope:
+      path: ""
+      type: courses
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "learning_nav"
+  
+  - scope:
+      path: ""
+      type: textbooks
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "learning_nav"
 
 
 # Sass/SCSS

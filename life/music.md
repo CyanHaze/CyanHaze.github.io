@@ -111,7 +111,7 @@ Just enjoy it.
   > One of my favorite math rock or fusion jazz band in Japan. With full of energy and passion, everyone will be moved by their performance. When i first saw their live, there were two people dancing in front of me. Just for relax and pure joy.
 
 - **Fayzz** - 2025.11.21 Live at EchoSpace in Hangzhou
-  > One of the best math rock band in China. Their live performance just like their music, full of restrain and calmness. That was a down time for me and their music simulated me a lot. And a idea inside their new album "Patch" comes from a concept of Computer Vision which called Advesarial-Patch-Attack.
+  > Easily one of the best math rock bands in China. Their live performances mirror their music perfectly: restrained and calm. During a difficult period in my life, their music provided much-needed stimulation. Interestingly, the concept behind their new album, *Patch*, is drawn from a term in Computer Vision known as the 'Adversarial Patch Attack'.
 
 - **Tiny Moving Parts** - 2025.1.11 Live at EchoSpace in Hangzhou
   > Midwest Emo band from Minnesota. Full of energy and passion. The encore song was "Medicine", and everyone sang together. I still remember that night. That was just after my finals, an exhausting week and I almost messed up everything then. Their music healed me a lot.

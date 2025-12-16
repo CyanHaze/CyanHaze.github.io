@@ -2,10 +2,15 @@
 title: "CS61A: Structure and Interpretation of Computer Programs"
 layout: single       
 author_profile: true 
-collection: learning
-date: 2025-09-16 
-permalink: /learning/CS61A-Structure-and-Interpretation-of-Computer-Programs
+collection: courses
+tags: [CS]
+school: "UC Berkeley"
+date: 2025-07-25
+permalink: /learning/courses/CS61A-Structure-and-Interpretation-of-Computer-Programs
+code: "CS61A"
+excerpt: "An in-depth introduction to computer science principles"
 ---
+
 
 # CS61A: Structure and Interpretation of Computer Programs
 

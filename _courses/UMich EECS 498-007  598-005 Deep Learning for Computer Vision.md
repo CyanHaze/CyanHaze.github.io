@@ -2,9 +2,13 @@
 title: "UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision"
 layout: single       
 author_profile: true 
-collection: learning
-date: 2025-10-15 
-permalink: /learning/UMich-EECS-498-007-598-005-Deep-Learning-for-Computer-Vision
+collection: courses
+tags: [AI]
+school: "University of Michigan"
+date: 2025-07-25
+permalink: /learning/courses/UMich-EECS-498-007-598-005-Deep-Learning-for-Computer-Vision
+code: "EECS 498-007 / 598-005"
+excerpt: "My first deep learning course focusing on computer vision"
 ---
 
 # UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision
