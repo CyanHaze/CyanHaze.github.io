@@ -7,7 +7,7 @@ excerpt: "The best introduction to advanced algebra written in Chinese."
 ---
 
 ## 📖 Overview
-I read this book twice after my finals of Advanced Algebra course. It was a well-structured and comprehensive textbook that covered the fundamental concepts and theories of linear algebra. Much better than the ZJU textbook used in the course. Without doubt, I highly recommend it to be the first textbook for any Chinese undergraduate students who want to learn linear algebra.
+Upon completing my Advanced Algebra course, I read this book twice. It is an exceptionally well-structured resource covering the fundamentals of linear algebra. Significantly outperforming the standard ZJU textbook, I unreservedly recommend it as the foundational text for Chinese undergraduate students.
 
 ## 📅 Learning Journey
 - 2025.5.30 第一章 行列式
