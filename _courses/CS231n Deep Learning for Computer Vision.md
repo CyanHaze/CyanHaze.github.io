@@ -17,9 +17,9 @@ excerpt: "A comprehensive course on deep learning techniques for computer vision
 - [Course Website](https://cs231n.stanford.edu/)
 
 ## Course Overview
-This class was under the name of Fei-Fei Li. It is one of the most famous deep learning for computer vision courses in the world. Compared to the UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision course, some slides of CS231n about 3DGS and YOLO are more updated. 
+This course is associated with Fei-Fei Li and is one of the most famous deep learning for computer vision courses in the world. In comparison to the UMich EECS 498-007 / 598-005 course, I found that some CS231n slides regarding 3DGS and YOLO are more up-to-date.
 
-After all, though I learned the computer vision mostly through the UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision course, CS231n is still the great course for anyone who wants to have a peek into the computer vision world. And it won't disappoint you.
+Ultimately, even though I learned computer vision mostly through the UMich course, CS231n is still an excellent course for anyone wanting an introduction to the computer vision world. It won’t disappoint you.
 
 ## My Learning Journey
 - 2025.8.23 Lecture 1 Introduction

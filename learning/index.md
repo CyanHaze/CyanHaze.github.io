@@ -40,7 +40,7 @@ My knowledge base and academic roadmap.
 **Mathematics**
 <div style="display: flex; gap: 10px; margin-bottom: 15px;">
   <span style="background: #eee; padding: 5px 10px; border-radius: 4px; font-size: 0.8em;">Linear Algebra</span>
-  <span style="background: #eee; padding: 5px 10px; border-radius: 4px; font-size: 0.8em;">Mathematic Analysis</span>
+  <span style="background: #eee; padding: 5px 10px; border-radius: 4px; font-size: 0.8em;">Mathematical Analysis</span>
 
 </div>
 
