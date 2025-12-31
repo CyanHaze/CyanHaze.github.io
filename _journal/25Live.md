@@ -1,0 +1,328 @@
+---
+title: "2025现场"
+layout: single       
+author_profile: true 
+collection: journal   
+date: 2025-12-31
+permalink: /journal/2025-Live
+---
+
+
+
+# 感谢你在
+
+我挑挑拣拣地挑了很多的标题，我想我有很多的话想说。也许是“Though  I know you don't listen to emo”，也许是“Let's just forget”，也许是“我不在 那谁在”。我想了很久，最后选了这个标题，源自Shanghai Qiutian，他们今晚在Liveshop Uni，有点可惜我没去。但无论如何，“感谢你在”，其实是“感谢你们在”。
+
+今年是很难说的一年。今年我终于抵达了很多心心念念的现场，看到了我喜欢好久好久的乐队。我现在耳机里正放着Soccer.的The Summer Will Be Here Soon，回想起今年的那些现场，突然很想哭，很开心的想哭。我很难从今年那么多的现场里挑出我的年度现场，因为我在现场遇到了很多很可爱的朋友，听到了很多很喜欢的歌，是你们一起组成了我的回忆，我想我挑不出那个更喜欢，因为你们都在。
+
+挑一个词给今年的音乐体验的话我想是“Echo”。ECHO SPACE是我一个很喜欢的场地，但echo对我来说是回响与共鸣。我在今年认识了好多好多的乐友，我可以听到来自你们的回声。在我抬着头看向舞台的时候，我确信我的心脏在和bass一起振动，当然，也和你们一起共鸣。
+
+所以，感谢你在。
+
+---
+
+### Tiny Moving Parts - 01.11 Live at ECHO SPACE 
+
+![image-20251223231342906](F:\Thinking\Journal\2025\Live\1.png)
+
+我后来经常会回想起那天。我和tmp的偶遇是在期末周的耳机里，那时候听到感觉真的很喜欢，后来那几天tmp刚刚好来杭州巡演，那就去看看？
+
+事实是那几天我刚刚挣扎地结束我的期末考试，我那时候几乎弄砸了一切事情，人际关系，学习，生活。而那天结束了百万立方小组的补天，活很多，我很怕搞砸。而那天晚上我刚刚做完百万立方的Pre，很高兴我们的组拿了总分第一名。那天去赶Live的时候遇到了49老师，他教的建筑与设计，而我那时候很开心地和他描绘着我所期望的未来的图景。
+
+我在骑着自行车去现场的路上风把我的头发高高吹起，那是我少有的最自由的时候。
+
+那天的安可曲是medicine，
+
+> I need something symbolic to rupture.
+>
+> I want to seek some unforeseen color.
+>
+> I need to forget who I am.
+>
+> So I'll try again.
+
+So I'll try again.
+
+---
+
+### 舌头 - 02.21 Live at MIDI 
+
+![image-20251223232536692](F:\Thinking\Journal\2025\Live\2.png)
+
+很有力量的吴吞。如果你懂。吴吞是一个诗人。
+
+现场听到的最喜欢的不是妈飞妈摇，居然是最后的时候到溜。
+
+很温情，我很喜欢。
+
+> 太阳落山的时候下雨溜
+>
+> 燕子在屋檐下做了一个窝
+>
+> 电视里的新闻说英国有十几万头疯牛
+>
+> 梦见他们都在草地上吃草
+>
+> 都在草地上吃草
+
+- 谢谢euphoria同学，这似乎是你和我一起看的本场演出。
+
+---
+
+### Shanghai Qiutian x 野外合作社 - 03.08 Live at CH8-Livehouse
+
+![image-20251223232909218](F:\Thinking\Journal\2025\Live\3.png)
+
+![image-20251223232919811](F:\Thinking\Journal\2025\Live\4.png)
+
+野外合作社很稳健。
+
+最爱的SHQT。
+
+很少有一场演出能让我从头几乎想要流泪到底。
+
+> 油墨芬芳
+> 奖状和纸浆
+> 你已很健壮
+> 撑得起愿望
+> 我能感受你
+> 从不轻易
+> 我心念着你
+> 我在想你
+> 我在想你
+> 我在想你
+> 我在想你
+> 我在想你
+
+我在想你。
+
+我等你们在崇明海边。
+
+- 谢谢euphoria同学和合成盆栽同学。你们和我一起看的本场演出。感谢你们在。
+
+---
+
+### v是兔子 - 03.09 Live at ECHO SPACE
+
+![image-20251223233741244](F:\Thinking\Journal\2025\Live\5.png)
+
+新生代的emo乐队。
+
+前面忘了，后面忘了。总之最后琴砸了，200快的鲁芬ST，本来想把后面的蛋糕饮料都毁了，忍住了，然后我直接飞奔出教室，感觉体会到了《重于天堂》里科特柯本因为音响设备的问题而情绪崩溃的感觉，出教室以后直接大哭了一场。
+
+《疼痛部》，不知何意味的青少年呢喃轻语，真的很疼吧。
+
+---
+
+### CORN WAVE - 03.14 Live at LiveShop Uni
+
+![image-20251223234019303](F:\Thinking\Journal\2025\Live\6.png)
+
+现场录了一整场所以没拍照。
+
+这是bass姐姐给我的花。
+
+玉米波，抑或是风吹麦浪，那时候好朋友听的他们。Emo Punk或者是后朋克，谁知道呢。也许没那么重要。
+
+当然啦，“十岁那年的夏天，小恐龙们灭绝了”，谁知道呢。
+
+很难说最喜欢哪首，也许就不如《荚状云的频率是432hz》吧。
+
+- 感谢Network-on-Chip，滤波怪，Macbeth，181s.老师一起看的演出。
+
+---
+
+### Can Festival Pt1 - 03.22 大青山四季花海
+
+![image-20251223234719007](F:\Thinking\Journal\2025\Live\7.png)
+
+Euphoria终于重组了，这是他们的第一次回来。
+
+听到了很久想听的Chinese Football。
+
+> 刚刚坐地铁的时候突然发现，恍然之间已经大一下了。踏进杭州东的大门时却总觉得高考后的旅行仿佛还在昨日。真的很快，朋友们。今天终于踏上了前往Can的列车，我心心念念的，期待从去年9月开始生长。今天早上刷到Cicada，“山与水在说话”，也许音乐就是一场山水似的重逢吧。现在才想到，我最近在做的，在学习的，在玩的绝大多数都是源于音乐最初给我的感动。杭州这两天似乎是入春了，阳光很好，在听emo的时候总感觉内心明媚。今天能见到Chinese Football和euphoria啦，明天是美足，如果这不是一场梦的话，我想我会化掉的
+
+我那天发的朋友圈，现在看到还能感受到那天的明朗。
+
+那次的主题是“The World CAN Be Better”，
+
+当然我更喜欢“That Love CAN Be Found”.
+
+全世界的水都会重逢。
+
+- 感谢合成盆栽同学，感谢明月三千里老师，谢谢CAN9，谢谢你们。谢谢罐头。
+
+---
+
+### American Football - 03.23 Live at 万代南梦宫
+
+最特种兵的一集。后来看的时候才发现我竟然没拍过照。
+
+不知道想说什么好，总之吉他声出来的时候我就绷不住哭了。
+
+> I just think it's best
+> Cause you can't miss what you forget
+> So let's just pretend
+> Everything and anything
+> Between you and me
+> Was never meant
+
+- 谢谢Judy同学，谢谢妙龄彤姐姐，谢谢star.同学。
+
+---
+
+### 水中スピカ - 04.17 Live at MAO Livehouse
+
+![image-20251223235929191](F:\Thinking\Journal\2025\Live\8.png)
+
+点弦很好，主唱姐姐很可爱。
+
+---
+
+### 生祥乐队 - 04.22 Live at LiveShop Uni
+
+![image-20251224000414326](F:\Thinking\Journal\2025\Live\9.png)
+
+![image-20251224005052832](F:\Thinking\Journal\2025\Live\10.png)
+
+你很少会见到一个乐队在talk环节会和你絮絮叨叨地说他的家乡美浓是一个很美很好的地方，他的爸爸，他的妈妈有多伟大，多么勤劳。
+
+最朴实也最厚重，最深情。
+
+菊花夜行军，下次我会带着菊花去看他的。
+
+---
+
+### 返校日 - 05.16 Live at ECHO SPACE
+
+没有拍照。
+
+朋友叫我去看的演出，第一次看这么燥的朋克，有点被吓到。
+
+最后是一首后摇很好。
+
+> 去新世界
+>
+> 永远有明天
+
+抛掉书本上街去吧，朋友们。
+
+- 谢谢euphoria。
+
+---
+
+### Offside Festival - 05.23-05.25 径山花海
+
+![image-20251224005246649](F:\Thinking\Journal\2025\Live\11.png)
+
+![image-20251224005302173](F:\Thinking\Journal\2025\Live\12.png)
+
+![image-20251224005857293](F:\Thinking\Journal\2025\Live\13.png)
+
+那两天我只知道很累很累，也许只是想要出逃。
+
+最后一天晚上我看见一些朋友抱在一起，他们唱着
+
+“我怕我没有机会
+
+跟你说一声再见
+
+因为也许就再也见不到你”
+
+失梦客。
+
+梦得。
+
+也许吧。
+
+- 谢谢euphoria和雷电大法师。谢谢YellowShai学长。谢谢明月老师，谢谢CAN9.
+
+---
+
+### toconoma - 07.19 Live at VAS
+
+![image-20251224010117961](F:\Thinking\Journal\2025\Live\14.png)
+
+我又能说什么呢。
+
+谢谢你们。
+
+- 谢谢邹。
+
+---
+
+### 新声音乐节 - 09.26 紫金港东操
+
+![image-20251224010422320](F:\Thinking\Journal\2025\Live\15.png)
+
+年度环节。
+
+那天看得很开心就是了。
+
+- 谢谢bb，谢谢toxic.
+
+---
+
+### Can Festival Pt2 - 10.18-10.19 大青山四季花海
+
+![image-20251224010650388](F:\Thinking\Journal\2025\Live\16.png)
+
+![image-20251224010710228](F:\Thinking\Journal\2025\Live\17.png)
+
+Welcome home.
+
+Welcome to Utopia.
+
+- 谢谢euphoria和明月大法师。谢谢toxic。谢谢coolbreeze。谢谢daftpunk和sine.
+
+---
+
+### Uni一周年Day1 - 11.01 Live at Liveshop Uni
+
+![image-20251224011006005](F:\Thinking\Journal\2025\Live\18.png)
+
+![image-20251224011020944](F:\Thinking\Journal\2025\Live\19.png)
+
+嗯，认识了很多很好的乐队。
+
+- 谢谢toxic和coolbreeze.
+
+---
+
+### Fayzz - 11.21 Live at ECHO SPACE
+
+![image-20251224011210142](F:\Thinking\Journal\2025\Live\20.png)
+
+最冷静。
+
+最克制。
+
+- 谢谢coolbreeze老哥.
+
+---
+
+### OPEN THE DOOR - 12.24 Live at La Garage
+
+最后一个演出是今晚的。
+
+以下是一些私人的话。我记得第一次去看Soccer.的时候，暖场嘉宾是利群。
+
+今天你能和他们同台演出了，祝贺你。真的很开心。
+
+`It's time for you`
+
+---
+
+## 最后
+
+有些图似乎是拿的群里的一些老师的，如果看到的话可以和我联系删除，抱歉了。谢谢你们。
+
+我昨天晚上一点陆陆续续地写了一些话，现在又一点点删掉了。25年对我来说其实是很糟糕的一年，我活的其实没有那么的幸福，感谢摇滚乐拯救了我。在很多个现场我也常常感到疲惫，会有一些瞬间怀疑自己，那么的热爱本身是否有意义，后来我似乎慢慢开始理解xmo的退出。似乎我也没有找到答案，但我确信音乐本身值得追寻一生。
+
+今年Sora发展的很快，我确信再过不久，工业化的流水线式的AI作曲会席卷一切。我想我可能会去做做ai4audio的一些事情，也许打不过就加入也挺好的。但我想更重要的是，在不算遥远的未来，现场会比耳机里的音乐更加珍贵，因为我知道，我同你们都站在一起。
+
+感谢你在。
+
+祝你们旅途愉快。
+
+现场见。
