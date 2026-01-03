@@ -8,7 +8,8 @@ author_profile: true
 ---
 Welcome to my music room. I am deeply obsessed with **Math Rock**, **Fusion Jazz**, and **Midwest Emo**. 
 
-Music is not just background noise to me; it's a structure of logic and emotion, much like the code I write. Here are the albums that have shaped my taste.
+Music is not just background noise to me; it's a structure of logic and emotion. Maybe more than that, it's a sanctuary for me in this chaotic world.
+Here are the albums that have shaped my taste.
 
 ---
 
