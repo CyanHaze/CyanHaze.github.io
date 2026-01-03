@@ -32,7 +32,11 @@ Cinema is a dream we dream together. Here are the films that visually and narrat
 
   <!-- 影评 -->
   <p style="line-height: 1.7;">
-    I watched this movie on my senior high school. You know for every Chinese student, the experience in senior high is a definitely painful and rustling nightmare. I am deeply thankful for this life rescuing me from the dark reality. But the director suicided after finishing this film. The soundtrack is made by a great post-rock band which has the power to shake your heart. And the dialogue often cited by some songs, I always moved each time hearing them. After that I always dreamed of I were an elephant sitting still and doing nothing, a new way to fight with life. That's awesome.
+    I encountered this film during my senior high years—a period that is, for many Chinese students, a bleak and suffocating endurance test. This film became my sanctuary, rescuing me from that gray reality.
+    <br>
+    It is heartbreaking to know that the director, Hu Bo, ended his life shortly after its completion. The post-rock score is hauntingly beautiful, possessing the power to pierce through your heart. I still tear up whenever I hear the film's dialogue sampled in songs.
+    <br>
+    Since then, I have always dreamed of being that elephant—sitting still, doing nothing. It feels like a new way to resist the absurdity of life. 
   </p>
 </div>
 
@@ -59,9 +63,7 @@ Cinema is a dream we dream together. Here are the films that visually and narrat
   </div>
   <!-- 影评 -->
   <p style="line-height: 1.7;">
-    I encountered this film during my senior high years—a period that is, for many Chinese students, a bleak and suffocating endurance test. This film became my sanctuary, rescuing me from that gray reality.
-    It is heartbreaking to know that the director, Hu Bo, ended his life shortly after its completion. The post-rock score is hauntingly beautiful, possessing the power to pierce through your heart. I still tear up whenever I hear the film's dialogue sampled in songs. 
-    Since then, I have always dreamed of being that elephant—sitting still, doing nothing. It feels like a new way to resist the absurdity of life. 
+    I watched this film last year, right before a serendipitous encounter changed my life. I was deeply moved by Wong Kar-wai's signature aesthetics and storytelling. He masterfully portrays the solitude hidden within a crowded metropolis. As a freshman stepping into a new world, the film became an echo of my own thirst for genuine connection.
   </p>
 </div>
 
