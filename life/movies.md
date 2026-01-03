@@ -8,6 +8,35 @@ author_profile: true
 Cinema is a dream we dream together. Here are the films that visually and narratively inspired me.
 
 ---
+<!-- === 电影 5: 山河故人 === -->
+<div style="margin-bottom: 50px;">
+  <!-- 标题 -->
+  <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 1.4em; color: #2c3e50;">
+    山河故人 (Mountains May Depart)
+  </h3>
+  <!-- 信息栏 -->
+  <p style="color: #7f8c8d; font-size: 0.9em; margin-bottom: 15px; letter-spacing: 0.5px;">
+    DIR. 贾樟柯 (2015) | <span style="color: #52adc8;">★ Favorite</span>
+  </p>
+
+  <!-- 摘录/台词模块 -->
+  <div style="background-color: #f8f9fa; border-left: 4px solid #1e1f1fff; padding: 15px 20px; margin-bottom: 20px; border-radius: 0 4px 4px 0;">
+    <p style="margin: 0; font-family: Georgia, serif; font-style: italic; color: #555; line-height: 1.6;">
+      <span style="font-size: 1.5em; vertical-align: middle; color: #1e1f1fff; line-height: 0;">❝</span>
+      过去，现在，未来，每个人都只能陪你走一段路，迟早是要分开的。
+    </p>
+  </div>
+
+  <!-- 影评 -->
+  <p style="line-height: 1.7;">
+  In Mountains May Depart, the 'future' was set in 2025. Standing here in 2026, looking back, we realize that while some gadgets from the film never appeared, the explosion of AI has rewritten our reality in ways even the director couldn't foresee.
+  <br>
+  But technology is just the backdrop. The core of the film—estrangement and separation—hit me hard, especially after my recent heartbreak. Rewatching it at the 10th-anniversary screening felt entirely different from the first time; the sorrow felt heavier, more real.
+  <br>
+  The song 'Go West' rings out like a prophecy, symbolizing a hunger for a better life. Now, I find myself facing my own dilemma: whether to leave everything behind and study abroad. So, 'Go West'?
+  </p>
+</div>
+
 
 <!-- === 电影 4: 大象席地而坐 === -->
 <div style="margin-bottom: 50px;">
@@ -118,7 +147,6 @@ Cinema is a dream we dream together. Here are the films that visually and narrat
 </div>
 
 <hr style="border: 0; border-top: 1px dashed #ddd; margin: 40px 0;">
-
 
 
 <br>
