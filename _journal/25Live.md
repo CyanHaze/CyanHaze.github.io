@@ -23,7 +23,7 @@ permalink: /journal/2025-Live
 
 ### Tiny Moving Parts - 01.11 Live at ECHO SPACE 
 
-![image-20251223231342906](F:\Thinking\Journal\2025\Live\1.png)
+![image-20251223231342906](F:\Thinking\Journal\2025\Live25\1.png)
 
 我后来经常会回想起那天。我和tmp的偶遇是在期末周的耳机里，那时候听到感觉真的很喜欢，后来那几天tmp刚刚好来杭州巡演，那就去看看？
 
@@ -47,7 +47,7 @@ So I'll try again.
 
 ### 舌头 - 02.21 Live at MIDI 
 
-![image-20251223232536692](F:\Thinking\Journal\2025\Live\2.png)
+![image-20251223232536692](F:\Thinking\Journal\2025\Live25\2.png)
 
 很有力量的吴吞。如果你懂。吴吞是一个诗人。
 
@@ -71,9 +71,9 @@ So I'll try again.
 
 ### Shanghai Qiutian x 野外合作社 - 03.08 Live at CH8-Livehouse
 
-![image-20251223232909218](F:\Thinking\Journal\2025\Live\3.png)
+![image-20251223232909218](F:\Thinking\Journal\2025\Live25\3.png)
 
-![image-20251223232919811](F:\Thinking\Journal\2025\Live\4.png)
+![image-20251223232919811](F:\Thinking\Journal\2025\Live25\4.png)
 
 野外合作社很稳健。
 
@@ -104,7 +104,7 @@ So I'll try again.
 
 ### v是兔子 - 03.09 Live at ECHO SPACE
 
-![image-20251223233741244](F:\Thinking\Journal\2025\Live\5.png)
+![image-20251223233741244](F:\Thinking\Journal\2025\Live25\5.png)
 
 新生代的emo乐队。
 
@@ -116,7 +116,7 @@ So I'll try again.
 
 ### CORN WAVE - 03.14 Live at LiveShop Uni
 
-![image-20251223234019303](F:\Thinking\Journal\2025\Live\6.png)
+![image-20251223234019303](F:\Thinking\Journal\2025\Live25\6.png)
 
 现场录了一整场所以没拍照。
 
@@ -134,7 +134,7 @@ So I'll try again.
 
 ### Can Festival Pt1 - 03.22 大青山四季花海
 
-![image-20251223234719007](F:\Thinking\Journal\2025\Live\7.png)
+![image-20251223234719007](F:\Thinking\Journal\2025\Live25\7.png)
 
 Euphoria终于重组了，这是他们的第一次回来。
 
@@ -173,7 +173,7 @@ Euphoria终于重组了，这是他们的第一次回来。
 
 ### 水中スピカ - 04.17 Live at MAO Livehouse
 
-![image-20251223235929191](F:\Thinking\Journal\2025\Live\8.png)
+![image-20251223235929191](F:\Thinking\Journal\2025\Live25\8.png)
 
 点弦很好，主唱姐姐很可爱。
 
@@ -181,9 +181,9 @@ Euphoria终于重组了，这是他们的第一次回来。
 
 ### 生祥乐队 - 04.22 Live at LiveShop Uni
 
-![image-20251224000414326](F:\Thinking\Journal\2025\Live\9.png)
+![image-20251224000414326](F:\Thinking\Journal\2025\Live25\9.png)
 
-![image-20251224005052832](F:\Thinking\Journal\2025\Live\10.png)
+![image-20251224005052832](F:\Thinking\Journal\2025\Live25\10.png)
 
 你很少会见到一个乐队在talk环节会和你絮絮叨叨地说他的家乡美浓是一个很美很好的地方，他的爸爸，他的妈妈有多伟大，多么勤劳。
 
@@ -213,11 +213,11 @@ Euphoria终于重组了，这是他们的第一次回来。
 
 ### Offside Festival - 05.23-05.25 径山花海
 
-![image-20251224005246649](F:\Thinking\Journal\2025\Live\11.png)
+![image-20251224005246649](F:\Thinking\Journal\2025\Live25\11.png)
 
-![image-20251224005302173](F:\Thinking\Journal\2025\Live\12.png)
+![image-20251224005302173](F:\Thinking\Journal\2025\Live25\12.png)
 
-![image-20251224005857293](F:\Thinking\Journal\2025\Live\13.png)
+![image-20251224005857293](F:\Thinking\Journal\2025\Live25\13.png)
 
 那两天我只知道很累很累，也许只是想要出逃。
 
@@ -241,7 +241,7 @@ Euphoria终于重组了，这是他们的第一次回来。
 
 ### toconoma - 07.19 Live at VAS
 
-![image-20251224010117961](F:\Thinking\Journal\2025\Live\14.png)
+![image-20251224010117961](F:\Thinking\Journal\2025\Live25\14.png)
 
 我又能说什么呢。
 
@@ -253,7 +253,7 @@ Euphoria终于重组了，这是他们的第一次回来。
 
 ### 新声音乐节 - 09.26 紫金港东操
 
-![image-20251224010422320](F:\Thinking\Journal\2025\Live\15.png)
+![image-20251224010422320](F:\Thinking\Journal\2025\Live25\15.png)
 
 年度环节。
 
@@ -265,9 +265,9 @@ Euphoria终于重组了，这是他们的第一次回来。
 
 ### Can Festival Pt2 - 10.18-10.19 大青山四季花海
 
-![image-20251224010650388](F:\Thinking\Journal\2025\Live\16.png)
+![image-20251224010650388](F:\Thinking\Journal\2025\Live25\16.png)
 
-![image-20251224010710228](F:\Thinking\Journal\2025\Live\17.png)
+![image-20251224010710228](F:\Thinking\Journal\2025\Live25\17.png)
 
 Welcome home.
 
@@ -279,9 +279,9 @@ Welcome to Utopia.
 
 ### Uni一周年Day1 - 11.01 Live at Liveshop Uni
 
-![image-20251224011006005](F:\Thinking\Journal\2025\Live\18.png)
+![image-20251224011006005](F:\Thinking\Journal\2025\Live25\18.png)
 
-![image-20251224011020944](F:\Thinking\Journal\2025\Live\19.png)
+![image-20251224011020944](F:\Thinking\Journal\2025\Live25\19.png)
 
 嗯，认识了很多很好的乐队。
 
@@ -291,7 +291,7 @@ Welcome to Utopia.
 
 ### Fayzz - 11.21 Live at ECHO SPACE
 
-![image-20251224011210142](F:\Thinking\Journal\2025\Live\20.png)
+![image-20251224011210142](F:\Thinking\Journal\2025\Live25\20.png)
 
 最冷静。
 
