@@ -5,7 +5,7 @@ author_profile: true
 collection: courses
 tags: [AI]
 school: "Stanford University"
-date: 2025-07-25
+date: 2025-10-29
 permalink: /learning/courses/CS231n-Deep-Learning-for-Computer-Vision
 code: "CS231n"
 excerpt: "A comprehensive course on deep learning techniques for computer vision"
