@@ -11,9 +11,9 @@ About Me
 ======
 Hi! I am a second-year undergraduate student at Zhejiang University (ZJU), majoring in Mechanical Engineering.
 
-My academic interests lie at the intersection of Robotics and Embodied AI, with a particular focus on robot perception and navigation. I also have a keen interest in computer vision and deep learning. Mathematics has always fascinated me, and I enjoy exploring its applications in various fields. 
+My academic interests lie in the field of learning representation. And I think it would be a main research throughout my hole academic life. I am keen on exploring how to find a good representation. Mathematics has always fascinated me, and I enjoy exploring its applications in various fields. 
 
-Currently, I am involved in research projects related to robot perception and navigation in CAD&CG Lab at ZJU supervised by Prof. Cui.
+Currently, I am involved in research projects related to robot perception and navigation in CAD&CG Lab at ZJU supervised by Prof. Cui. And I am conducting a SRTP research project on 3D vision-based dexterous hands grasping under the supervision of Chen.
 
 Outside of academics, I have a passion for music especially the genre of Math Rock, Post Rock, Midwest Emo and Fusion Jazz. I aspire to form a band in the future and create my own music. I also enjoy reading novels and watching movies during my leisure time. And welcome to follow my CC98 account [CyanHaze@CC98](https://www.cc98.org/user/id/759680) for more updates about me!
 
