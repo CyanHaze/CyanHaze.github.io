@@ -237,9 +237,9 @@ collections:
   notes:
     output: true
     permalink: /:collection/:path/
-  # misc:
-  #   output: true
-  #   permalink: /:collection/:path/
+  misc:
+    output: true
+    permalink: /:collection/:path/
   # learning:
   #   output: true
   #   permalink: /:collection/:path/
