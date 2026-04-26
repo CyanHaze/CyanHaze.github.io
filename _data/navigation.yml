@@ -20,9 +20,6 @@ main:
   - title: "Journal"
     url: /journal/
 
-  - title: "Misc"
-    url: /misc/
-
   - title: "Life"
     url: /life/
     children: 
@@ -30,6 +27,8 @@ main:
         url: /life/music/
       - title: "Reading"
         url: /life/reading/
+      - title: "Misc"
+        url: /life/misc/
 
   - title: "Learning"
     url: /learning/
