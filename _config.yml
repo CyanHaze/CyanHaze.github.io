@@ -31,6 +31,7 @@ author:
   employer         : "Zhejiang University"
   uri              : # URL
   email            : "CyanHaze@outlook.com" 
+  cv               : "/files/CV.pdf"
 
   # Academic websites
   academia         : # URL
