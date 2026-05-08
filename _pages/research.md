@@ -16,7 +16,12 @@ Here I document some thought-provoking papers and some of my own research work.
 
 ## Thoughts
 {% for post in site.thoughts reversed %}
-  {% include archive-single.html %}
+### [{{ post.title }}]({{ post.url | relative_url }})
+
+{{ post.description }}
+
+<small>{{ post.date | date: "%B %-d, %Y" }}</small>
+
 {% endfor %}
 
 ## Talks & Interviews
