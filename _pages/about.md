@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "CyanHaze"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-classes: wide
 ---
 
-About Me
-======
+
 Hi! I am a second-year undergraduate student at Zhejiang University (ZJU), majoring in Mechanical Engineering.
 
 My main research interest is representation learning. I am especially interested in how computer vision models learn general-purpose visual representations through architectural design and learning paradigms. Currently, I am conducting a research project on 3D vision-based dexterous hand grasping under the supervision of Prof. [Hao Chen](https://stan-haochen.github.io/). Besides representation learning, I have a long-standing interest in mathematics and am currently exploring Lean 4 and formal verification.

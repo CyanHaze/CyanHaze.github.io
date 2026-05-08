@@ -243,6 +243,9 @@ collections:
   # learning:
   #   output: true
   #   permalink: /:collection/:path/
+  thoughts:
+    output: true
+    permalink: /:collection/:path/
   courses:
     output: true
     permalink: /learning/courses/:path/

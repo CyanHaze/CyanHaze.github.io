@@ -14,7 +14,13 @@ Here I document some thought-provoking papers and some of my own research work.
 {% endfor %}
 
 
+{% include base_path %}
 
+Here I document my thoughts about research.
+
+{% for post in site.thoughts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 **Talks & Interviews that shaped my perspective:**
