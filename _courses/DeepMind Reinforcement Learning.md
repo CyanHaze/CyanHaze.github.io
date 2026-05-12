@@ -11,7 +11,7 @@ code: "COMPM050"
 excerpt: "A great course by DeepMind on reinforcement learning concepts and applications."
 ---
 
-# UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision
+# DeepMind Reinforcement Learning
 
 ## Course Website
 - [Course Website](https://davidstarsilver.wordpress.com/teaching/)

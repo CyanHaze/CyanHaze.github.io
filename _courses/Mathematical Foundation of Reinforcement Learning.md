@@ -11,7 +11,7 @@ code: ""
 excerpt: "A course on the mathematical foundations underlying reinforcement learning techniques."
 ---
 
-# UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision
+# Mathematical Foundation of Reinforcement Learning
 
 ## Course Website
 - [Course Website](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
