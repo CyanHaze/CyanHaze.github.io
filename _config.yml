@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "CyanHaze's Homepage"
 title_separator          : "-"
-name                     : &name "Kai Cheng(CyanHaze)"
+name                     : &name "Kai Cheng"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://CyanHaze.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "avatar.png"
-  name             : "Cyan Chi"
+  name             : "Kai Cheng(CyanHaze)"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate @ ZJU"
   location         : "Hangzhou, China"
@@ -75,7 +75,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "CyanHazeCK"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
