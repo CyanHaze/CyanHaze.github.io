@@ -33,47 +33,58 @@ My knowledge base and academic roadmap.
 
 ---
 
-### Mathematics
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px; margin-bottom: 32px;">
 
-<span style="background: #e8f5e9; color: #1b5e20; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Linear Algebra</span>
-<span style="background: #e8f5e9; color: #1b5e20; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Abstract Algebra</span>
-<span style="background: #e8f5e9; color: #1b5e20; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Mathematical Analysis</span>
-<span style="background: #e8f5e9; color: #1b5e20; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Probability Theory</span>
-<span style="background: #e8f5e9; color: #1b5e20; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Topology</span>
-<span style="background: #e8f5e9; color: #1b5e20; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">ODEs</span>
-<span style="background: #e8f5e9; color: #1b5e20; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Fourier Analysis</span>
+  <!-- Mathematics -->
+  <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 24px; border-top: 4px solid #1b5e20;">
+    <h3 style="margin: 0 0 12px 0; font-size: 1.15em; color: #1b5e20;">Mathematics</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px;">
+      <span style="background: #e8f5e9; color: #1b5e20; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Linear Algebra</span>
+      <span style="background: #e8f5e9; color: #1b5e20; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Abstract Algebra</span>
+      <span style="background: #e8f5e9; color: #1b5e20; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Analysis</span>
+      <span style="background: #e8f5e9; color: #1b5e20; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Probability</span>
+      <span style="background: #e8f5e9; color: #1b5e20; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Topology</span>
+      <span style="background: #e8f5e9; color: #1b5e20; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">ODEs</span>
+      <span style="background: #e8f5e9; color: #1b5e20; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Fourier Analysis</span>
+    </div>
+    <a href="/learning/textbooks/" style="font-size: 0.85em; color: #1b5e20; text-decoration: none;">→ Reading notes</a>
+  </div>
 
-→ See [Textbooks](/learning/textbooks/) for detailed reading notes
+  <!-- CS & AI -->
+  <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 24px; border-top: 4px solid #e65100;">
+    <h3 style="margin: 0 0 12px 0; font-size: 1.15em; color: #e65100;">Computer Science &amp; AI</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px;">
+      <span style="background: #fff3e0; color: #e65100; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Computer Vision</span>
+      <span style="background: #fff3e0; color: #e65100; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Deep Learning</span>
+      <span style="background: #fff3e0; color: #e65100; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Reinforcement Learning</span>
+      <span style="background: #fff3e0; color: #e65100; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Diffusion Models</span>
+      <span style="background: #fff3e0; color: #e65100; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Data Structures</span>
+      <span style="background: #fff3e0; color: #e65100; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Algorithms</span>
+      <span style="background: #fff3e0; color: #e65100; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Audio DSP</span>
+    </div>
+    <a href="/learning/courses/" style="font-size: 0.85em; color: #e65100; text-decoration: none;">→ Course timeline</a>
+  </div>
 
----
+  <!-- Tools -->
+  <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 24px; border-top: 4px solid #0d47a1;">
+    <h3 style="margin: 0 0 12px 0; font-size: 1.15em; color: #0d47a1;">Tools &amp; Languages</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+      <span style="background: #e3f2fd; color: #0d47a1; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Python</span>
+      <span style="background: #e3f2fd; color: #0d47a1; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">C++</span>
+      <span style="background: #e3f2fd; color: #0d47a1; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">PyTorch</span>
+      <span style="background: #e3f2fd; color: #0d47a1; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Git</span>
+      <span style="background: #e3f2fd; color: #0d47a1; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">ROS2</span>
+      <span style="background: #e3f2fd; color: #0d47a1; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Lean 4</span>
+      <span style="background: #e3f2fd; color: #0d47a1; padding: 4px 12px; border-radius: 14px; font-size: 0.82em;">Linux</span>
+    </div>
+  </div>
 
-### Computer Science & AI
-
-<span style="background: #fff3e0; color: #e65100; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Computer Vision</span>
-<span style="background: #fff3e0; color: #e65100; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Deep Learning</span>
-<span style="background: #fff3e0; color: #e65100; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Reinforcement Learning</span>
-<span style="background: #fff3e0; color: #e65100; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Diffusion Models</span>
-<span style="background: #fff3e0; color: #e65100; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Data Structures</span>
-<span style="background: #fff3e0; color: #e65100; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Algorithm Analysis</span>
-<span style="background: #fff3e0; color: #e65100; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Audio Signal Processing</span>
-
-→ See [Courses](/learning/courses/) for full learning timeline
-
----
-
-### Tools & Languages
-
-<span style="background: #e3f2fd; color: #0d47a1; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Python</span>
-<span style="background: #e3f2fd; color: #0d47a1; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">C++</span>
-<span style="background: #e3f2fd; color: #0d47a1; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">PyTorch</span>
-<span style="background: #e3f2fd; color: #0d47a1; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Git</span>
-<span style="background: #e3f2fd; color: #0d47a1; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">ROS2</span>
-<span style="background: #e3f2fd; color: #0d47a1; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Lean 4</span>
-<span style="background: #e3f2fd; color: #0d47a1; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; margin: 3px; display: inline-block;">Linux</span>
-
-
----
+</div>
 
 ### Currently Exploring
 
-Dexterous manipulation &middot; World models &middot; Physical representation learning &middot; 3D vision for hand-object interaction
+<div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px 24px; background: #fafafa;">
+  <p style="margin: 0; line-height: 1.8; color: #444;">
+    Dexterous manipulation &nbsp;·&nbsp; World models &nbsp;·&nbsp; Physical representation learning &nbsp;·&nbsp; 3D vision for hand-object interaction
+  </p>
+</div>
