@@ -51,7 +51,7 @@ Here I document some thought-provoking papers and some of my own research work.
 
     <div style="flex: 1; min-width: 260px;">
       <h3 style="margin-top: 0; margin-bottom: 6px; font-size: 1.1em;">
-        <a href="https://github.com/CyanHaze/Stereo-Hoi-Object-Pose" target="_blank" style="text-decoration: none; color: #2c3e50;">Stereo-HOI Object Pose</a>
+        <a href="https://github.com/CyanHaze/Stereo-Hoi-Object-Pose" target="_blank" style="text-decoration: none; color: #2c3e50;">Stereo HOI Object Pose Estimation</a>
       </h3>
       <p style="color: #666; font-size: 0.93em; line-height: 1.6; margin: 0;">
         Stereo-based 6D object pose tracking for hand-object interaction videos.
