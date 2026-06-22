@@ -48,3 +48,26 @@ Selected Projects
   </div>
 
 </div>
+
+<div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin-top: 16px;">
+
+  <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+
+    <div style="flex: 0 0 220px;">
+      <a href="https://github.com/CyanHaze/Stereo-Hoi-Object-Pose" target="_blank">
+        <img src="/projects/Stereo-Hoi-Object-Pose/cover.png" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
+      </a>
+    </div>
+
+    <div style="flex: 1; min-width: 260px;">
+      <h3 style="margin-top: 0; margin-bottom: 6px; font-size: 1.1em;">
+        <a href="https://github.com/CyanHaze/Stereo-Hoi-Object-Pose" target="_blank" style="text-decoration: none; color: #2c3e50;">Stereo-HOI Object Pose</a>
+      </h3>
+      <p style="color: #666; font-size: 0.93em; line-height: 1.6; margin: 0;">
+        Stereo-based 6D object pose tracking for hand-object interaction videos.
+      </p>
+    </div>
+
+  </div>
+
+</div>
