@@ -41,7 +41,7 @@ Selected Projects
         <a href="https://github.com/CyanHaze/Awesome-Dexterous-Hands" target="_blank" style="text-decoration: none; color: #2c3e50;">Awesome Dexterous Hands</a>
       </h3>
       <p style="color: #666; font-size: 0.93em; line-height: 1.6; margin: 0;">
-        A curated list of dexterous robotic hands, covering design paradigms, actuation mechanisms, sensing modalities, and benchmark tasks. This project tracks the rapidly growing landscape of multi-fingered robotic manipulation research.
+        A curated list of dexterous robotic hands — design paradigms, actuation, sensing, and benchmark tasks.
       </p>
     </div>
 
