@@ -13,6 +13,28 @@ Here are the albums that have shaped my taste.
 
 ---
 
+<!-- === 专辑 5 开始 (Love You) === -->
+<div style="display: flex; gap: 25px; margin-bottom: 40px; align-items: flex-start;">
+  <div style="flex: 0 0 160px;">
+    <!-- 修改图片文件名 -->
+    <img src="/life/album/LoveYou.jpg" style="width: 100%; border-radius: 6px; box-shadow: 0 5px 15px rgba(0,0,0,0.15);">
+  </div>
+  <div style="flex: 1;">
+    <!-- 修改标题 -->
+    <h3 style="margin-top: 0; margin-bottom: 5px;">Shanghai Qiutian - Love You</h3>
+    <p style="font-size: 0.9em; color: #666; margin-bottom: 10px;">
+      <b>Genre:</b> Indie Rock / Math Rock / Midwest Emo <br>
+      <b>Release:</b> 2025
+    </p>
+    <!-- 修改乐评 -->
+    <p>This album connects me and my frieds. Composed of 4 EPs and 27 songs, Shanghai Qiutian trys to make a shelter from the chaos and noise of the world. I don't have much to say about this album. And, 爱你！Love You!
+    </p>
+  </div>
+</div>
+
+
+<!-- === 专辑 5 结束 === -->
+
 <!-- === 专辑 4 开始 (Racing Mount Pleasant) === -->
 
 <div style="display: flex; gap: 25px; margin-bottom: 40px; align-items: flex-start;">
@@ -34,7 +56,7 @@ Here are the albums that have shaped my taste.
 </div>
 
 
-<!-- === 专辑 4 开始 (Racing Mount Pleasant) === -->
+<!-- === 专辑 4 结束 === -->
 
 <!-- === 专辑 3 开始 (VISTA) === -->
 <div style="display: flex; gap: 25px; margin-bottom: 40px; align-items: flex-start;">
@@ -105,8 +127,11 @@ Here are the albums that have shaped my taste.
 
 Just enjoy it.
 
-- **American Football** - 2025.3.22 Live at 万代南梦宫BANDAI NAMCO SHANGHAI BASE in Shanghai 
-  > This is their 25 aniverary tour. And I cried when they played "Never Meant". Can any emokids can resist this song?
+- **SHANGHAI QIUTIAN** - 2026.4.25 at 9Club in Hangzhou
+  > With the theme of "Love You", Feiyan Lu and Yi Wang always struck me with their extremely high energy. I quite love their new album just like the name of it.
+
+- **American Football** - 2025.3.22 Live at NAMCO SHANGHAI BASE in Shanghai 
+  > This is their 25 aniverary tour. And I cried when they played "Never Meant". Can any emokids resist this song?
 
 - **toconoma** - 2025.7.19 Live at Vas in Shanghai 
   > One of my favorite math rock or fusion jazz bands in Japan. Full of energy and passion, everyone will be moved by their performance. When i first saw their show, there were two people dancing in front of me. Just for relaxation and pure joy.
