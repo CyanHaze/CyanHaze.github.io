@@ -8,6 +8,7 @@ school: "Westlake University"
 date: 2026-02-09
 permalink: /learning/courses/Mathematical-Foundation-of-Reinforcement-Learning
 code: ""
+term: "Winter 2022"
 excerpt: "A course on the mathematical foundations underlying reinforcement learning techniques."
 ---
 

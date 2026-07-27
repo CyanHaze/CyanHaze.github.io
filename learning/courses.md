@@ -15,7 +15,7 @@ Detailed records of courses I took.
     <div style="border: 1px solid #e0e0e0; padding: 20px; border-radius: 6px; background: #fff; transition: transform 0.2s; height: 100%; display: flex; flex-direction: column;
       {% if post.tags contains 'CS' %} border-left: 4px solid #0d47a1; {% elsif post.tags contains 'Math' %} border-left: 4px solid #1b5e20; {% elsif post.tags contains 'AI' %} border-left: 4px solid #e65100; {% else %} border-left: 4px solid #999; {% endif %}">
 
-​      
+      
 
       <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
         <!-- 自动根据 Tag 显示颜色标签 -->

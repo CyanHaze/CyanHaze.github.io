@@ -8,6 +8,7 @@ school: "UC Berkeley"
 date: 2025-07-25
 permalink: /learning/courses/CS61A-Structure-and-Interpretation-of-Computer-Programs
 code: "CS61A"
+term: "Summer 2025"
 excerpt: "An in-depth introduction to computer science principles"
 ---
 

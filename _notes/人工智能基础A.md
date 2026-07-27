@@ -2,7 +2,7 @@
 title: "人工智能基础A"
 layout: single       
 author_profile: true   
-collection: note
+collection: notes
 date: 2025-06-19 
 permalink: /notes/人工智能基础A
 ---

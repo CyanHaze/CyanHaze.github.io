@@ -8,6 +8,7 @@ school: "University College London"
 date: 2026-02-09
 permalink: /learning/courses/DeepMind-Reinforcement-Learning
 code: "COMPM050"
+term: "Spring 2015"
 excerpt: "A great course by DeepMind on reinforcement learning concepts and applications."
 ---
 

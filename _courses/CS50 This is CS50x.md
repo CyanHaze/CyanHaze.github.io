@@ -8,6 +8,7 @@ school: "Harvard University"
 date: 2025-07-25
 permalink: /learning/courses/CS50-This-is-CS50x
 code: "CS50"
+term: "Summer 2025"
 excerpt: "An intro to coding world"
 ---
 

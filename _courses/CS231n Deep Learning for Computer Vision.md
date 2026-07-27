@@ -8,6 +8,7 @@ school: "Stanford University"
 date: 2025-10-29
 permalink: /learning/courses/CS231n-Deep-Learning-for-Computer-Vision
 code: "CS231n"
+term: "Fall 2025"
 excerpt: "A comprehensive course on deep learning techniques for computer vision"
 ---
 

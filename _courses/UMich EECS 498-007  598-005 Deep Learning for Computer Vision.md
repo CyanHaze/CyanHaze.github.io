@@ -8,6 +8,7 @@ school: "University of Michigan"
 date: 2025-07-25
 permalink: /learning/courses/UMich-EECS-498-007-598-005-Deep-Learning-for-Computer-Vision
 code: "EECS 498-007 / 598-005"
+term: "Winter 2022"
 excerpt: "My first deep learning course focusing on computer vision"
 ---
 

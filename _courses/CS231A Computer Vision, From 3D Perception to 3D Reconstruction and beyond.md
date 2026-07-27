@@ -8,6 +8,7 @@ school: "Stanford University"
 date: 2026-07-27
 permalink: /learning/courses/CS231A-Computer-Vision-3D
 code: "CS231A"
+term: "Summer 2026"
 excerpt: "A comprehensive course on 3D computer vision — geometry, reconstruction, and beyond"
 ---
 
