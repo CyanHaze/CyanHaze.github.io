@@ -28,10 +28,19 @@ main:
       - title: "Reading"
         url: /life/reading/
       - title: "Misc"
-        url: /life/misc//
+        url: /life/misc/
 
   - title: "Learning"
     url: /learning/
+
+learning_nav:
+  - title: "Learning"
+    url: /learning/
+    children:
+      - title: "Courses"
+        url: /learning/courses/
+      - title: "Textbooks"
+        url: /learning/textbooks/
     
   # - title: "Talks"
   #  url: /talks/    
