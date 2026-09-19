@@ -24,6 +24,10 @@ Education
 ======
 - B.Eng. in Mechanical Engineering, Zhejiang University (2024 - Present)
 
+# Selected Publications
+
+## Coming Soon
+
 Selected Projects
 ======
 <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin-top: 16px;">
@@ -35,7 +39,7 @@ Selected Projects
         <img src="/projects/Awesome-Dexterous-Hands/cover.png" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
       </a>
     </div>
-
+    
     <div style="flex: 1; min-width: 260px;">
       <h3 style="margin-top: 0; margin-bottom: 6px; font-size: 1.1em;">
         <a href="https://github.com/CyanHaze/Awesome-Dexterous-Hands" target="_blank" style="text-decoration: none; color: #2c3e50;">Awesome Dexterous Hands</a>
@@ -58,7 +62,7 @@ Selected Projects
         <img src="/projects/Stereo-Hoi-Object-Pose/cover.png" style="width: 100%; border-radius: 6px; border: 1px solid #eee;">
       </a>
     </div>
-
+    
     <div style="flex: 1; min-width: 260px;">
       <h3 style="margin-top: 0; margin-bottom: 6px; font-size: 1.1em;">
         <a href="https://github.com/CyanHaze/Stereo-Hoi-Object-Pose" target="_blank" style="text-decoration: none; color: #2c3e50;">Stereo HOI Object Pose Estimation</a>
