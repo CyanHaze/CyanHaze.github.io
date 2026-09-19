@@ -26,7 +26,7 @@ Education
 
 # Selected Publications
 
-## Coming Soon
+**Coming Soon**
 
 Selected Projects
 ======
