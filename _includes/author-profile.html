@@ -157,7 +157,14 @@
       {% endif %}
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine icon-pad-right" aria-hidden="true"></i>Vine</a></li>
-      {% endif %}        
+      {% endif %}
+      {% if author.wechat %}
+        <li>
+          <button type="button" class="author__wechat-trigger" aria-haspopup="dialog" aria-controls="wechat-dialog">
+            <i class="fab fa-fw fa-weixin icon-pad-right" aria-hidden="true"></i>WeChat
+          </button>
+        </li>
+      {% endif %}
       {% if author.weibo %}
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo icon-pad-right" aria-hidden="true"></i>Weibo</a></li>
       {% endif %}
@@ -175,4 +182,25 @@
       {% endif %}      
     </ul>
   </div>
+
+  {% if author.wechat %}
+    <dialog class="wechat-dialog" id="wechat-dialog" aria-labelledby="wechat-dialog-title" aria-describedby="wechat-dialog-description">
+      <div class="wechat-dialog__header">
+        <div>
+          <h2 id="wechat-dialog-title">WeChat</h2>
+          <p id="wechat-dialog-description">Scan the QR code to add me as a friend.</p>
+        </div>
+        <form method="dialog">
+          <button type="submit" class="wechat-dialog__close" aria-label="Close WeChat QR code">
+            <i class="fas fa-xmark" aria-hidden="true"></i>
+          </button>
+        </form>
+      </div>
+      <img
+        class="wechat-dialog__image"
+        src="{{ author.wechat | prepend: "/images/" | prepend: base_path }}"
+        alt="WeChat QR code for {{ author.name }}"
+      >
+    </dialog>
+  {% endif %}
 </div>

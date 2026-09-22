@@ -121,10 +121,33 @@ $(document).ready(function () {
   fitvids();
 
   // Follow menu drop down
-  $(".author__urls-wrapper button").on("click", function () {
+  $(".author__urls-wrapper > button").on("click", function () {
     $(".author__urls").fadeToggle("fast", function () { });
-    $(".author__urls-wrapper button").toggleClass("open");
+    $(this).toggleClass("open");
   });
+
+  // Open the WeChat QR code in an accessible modal dialog.
+  const wechatDialog = document.querySelector('#wechat-dialog');
+  const wechatTrigger = document.querySelector('.author__wechat-trigger');
+  if (wechatDialog && wechatTrigger) {
+    wechatTrigger.addEventListener('click', () => {
+      if (typeof wechatDialog.showModal === 'function') {
+        wechatDialog.showModal();
+      } else {
+        wechatDialog.setAttribute('open', '');
+      }
+    });
+
+    wechatDialog.addEventListener('click', (event) => {
+      if (event.target === wechatDialog) {
+        wechatDialog.close();
+      }
+    });
+
+    wechatDialog.addEventListener('close', () => {
+      wechatTrigger.focus();
+    });
+  }
 
   // Restore the follow menu if toggled on a window resize
   jQuery(window).on('resize', function () {
