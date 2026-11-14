@@ -1,0 +1,17 @@
+# Model section only; use as config["model"] with b2b.models.build_model.
+# Does not select a dataset, loss, endpoint rule, or training budget.
+kind: motion_jit
+context: 4
+horizon: 56
+frame_dim: 126
+width: 768
+depth: 12
+heads: 12
+patch: 4
+bottleneck: 256
+in_context_start: 4
+mlp_ratio: 4.0
+frequency_embedding_size: 256
+attn_drop: 0.0
+proj_drop: 0.0
+compile_blocks: false

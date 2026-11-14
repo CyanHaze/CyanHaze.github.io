@@ -1,0 +1,184 @@
+{
+  "project": "DexJiT",
+  "date": "2026-11-14",
+  "task": {
+    "dataset": "HandX",
+    "context_frames": 4,
+    "future_frames": 56,
+    "hands": 2,
+    "joints_per_hand": 21,
+    "coordinate_unit": "meters"
+  },
+  "model": {
+    "width": 768,
+    "depth": 12,
+    "heads": 12,
+    "embedding_width": 256,
+    "frames_per_hand_patch": 4,
+    "future_tokens": 28,
+    "history_tokens": 8,
+    "parameters": 131053308
+  },
+  "training": {
+    "updates_per_model": 30000,
+    "batch_size": 64,
+    "seed": 42,
+    "train_windows": 76112,
+    "val_windows": 8456,
+    "test_windows": 9643,
+    "optimizer": "AdamW",
+    "learning_rate": 0.0001,
+    "objective": "raw velocity MSE",
+    "weights_for_evaluation": "EMA"
+  },
+  "test_protocol": {
+    "conditions": 512,
+    "samples_per_condition": 20,
+    "steps": 50,
+    "solver": "Heun with final Euler step",
+    "network_evaluations": 99,
+    "endpoint_rule": "common velocity weight min(1,t/0.05,(1-t)/0.05)",
+    "seed": 42,
+    "fid_generated_features": "first sample per condition"
+  },
+  "test": {
+    "x": {
+      "motion_fid_handx": 1.980455849741162,
+      "energy_score_m": 0.03897102527844254,
+      "sample_ade_m": 0.09720302032656036,
+      "sample_mean_ade_m": 0.07947795005748048,
+      "best_of_20_ade_m": 0.06392510274599772,
+      "sample_geometric_median_ade_m": 0.07534923541243188
+    },
+    "v": {
+      "motion_fid_handx": 2.203667912191939,
+      "energy_score_m": 0.03901033908914542,
+      "sample_ade_m": 0.09788485927856527,
+      "sample_mean_ade_m": 0.07966776801913511,
+      "best_of_20_ade_m": 0.0646302286622813,
+      "sample_geometric_median_ade_m": 0.07537376786058303
+    },
+    "eps": {
+      "motion_fid_handx": 2.3856198772871835,
+      "energy_score_m": 0.03904414634598652,
+      "sample_ade_m": 0.10133764814236201,
+      "sample_mean_ade_m": 0.08082685903355014,
+      "best_of_20_ade_m": 0.06551419256720692,
+      "sample_geometric_median_ade_m": 0.07638122177741025
+    }
+  },
+  "validation_learning_curve": [
+    {
+      "step": 5000,
+      "x": 5.121679071782921,
+      "v": 2.988877227930125,
+      "eps": 13.749632851664998
+    },
+    {
+      "step": 15000,
+      "x": 1.9496468255457202,
+      "v": 2.1438402398119436,
+      "eps": 2.7963120275038023
+    },
+    {
+      "step": 30000,
+      "x": 1.7713044016507595,
+      "v": 1.90099820529327,
+      "eps": 2.1158396449225947
+    }
+  ],
+  "validation_crossover": {
+    "conditions": 512,
+    "samples_per_condition": 4,
+    "updates": 30000,
+    "steps": 50,
+    "seed": 42,
+    "rows": [
+      {
+        "architecture": "Transformer baseline",
+        "sampler": "Denominator clipping",
+        "metrics": {
+          "x": {
+            "motion_fid_handx": 2.6151930687104397,
+            "energy_score_m": 0.03476468473672867,
+            "sample_ade_m": 0.11178959906101227,
+            "sample_mean_ade_m": 0.08616065979003906,
+            "diversity_rms_m": 0.08239644020795822
+          },
+          "v": {
+            "motion_fid_handx": 1.3947452738715356,
+            "energy_score_m": 0.034419748932123184,
+            "sample_ade_m": 0.10259105265140533,
+            "sample_mean_ade_m": 0.0816749632358551,
+            "diversity_rms_m": 0.07159799337387085
+          }
+        }
+      },
+      {
+        "architecture": "Transformer baseline",
+        "sampler": "Velocity damping",
+        "metrics": {
+          "x": {
+            "motion_fid_handx": 2.0150758856130224,
+            "energy_score_m": 0.03662499785423279,
+            "sample_ade_m": 0.10055594146251678,
+            "sample_mean_ade_m": 0.08273853361606598,
+            "diversity_rms_m": 0.062062058597803116
+          },
+          "v": {
+            "motion_fid_handx": 2.002539629828348,
+            "energy_score_m": 0.038900136947631836,
+            "sample_ade_m": 0.09720069169998169,
+            "sample_mean_ade_m": 0.08446112275123596,
+            "diversity_rms_m": 0.05242077261209488
+          }
+        }
+      },
+      {
+        "architecture": "DexJiT",
+        "sampler": "Denominator clipping",
+        "metrics": {
+          "x": {
+            "motion_fid_handx": 1.5627428934640406,
+            "energy_score_m": 0.034069959074258804,
+            "sample_ade_m": 0.1035609096288681,
+            "sample_mean_ade_m": 0.08241397142410278,
+            "diversity_rms_m": 0.07438001036643982
+          },
+          "v": {
+            "motion_fid_handx": 1.4531787826285267,
+            "energy_score_m": 0.03400187939405441,
+            "sample_ade_m": 0.10842233151197433,
+            "sample_mean_ade_m": 0.08497826755046844,
+            "diversity_rms_m": 0.08201316744089127
+          }
+        }
+      },
+      {
+        "architecture": "DexJiT",
+        "sampler": "Velocity damping",
+        "metrics": {
+          "x": {
+            "motion_fid_handx": 1.7713041324564287,
+            "energy_score_m": 0.03866082429885864,
+            "sample_ade_m": 0.09701314568519592,
+            "sample_mean_ade_m": 0.08423450589179993,
+            "diversity_rms_m": 0.05339297279715538
+          },
+          "v": {
+            "motion_fid_handx": 1.900998330207436,
+            "energy_score_m": 0.03875043988227844,
+            "sample_ade_m": 0.09774284064769745,
+            "sample_mean_ade_m": 0.08468710631132126,
+            "diversity_rms_m": 0.054117750376462936
+          }
+        }
+      }
+    ]
+  },
+  "source_reports": [
+    "handx_motion_jit_final_results_2026-11-14.json",
+    "x_v_rank_interpretation_2026-11-14.json"
+  ],
+  "source_report_sha256": "6df46c9229d61358bac1f329fac3e74e27d054cb8690cb666914a08249c65b99"
+}
