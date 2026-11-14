@@ -1,0 +1,13 @@
+task,condition,successes,trials,success_rate,mean_model_calls
+t10,No Demo,1,10,0.1,55.6
+t10,Full,8,10,0.8,38.5
+t10,State Only,10,10,1.0,20.1
+t10,Action Only,7,10,0.7,29.7
+t18,No Demo,2,10,0.2,38.6
+t18,Full,7,10,0.7,34.5
+t18,State Only,9,10,0.9,21.0
+t18,Action Only,7,10,0.7,21.7
+t19,No Demo,0,10,0.0,21.4
+t19,Full,0,10,0.0,27.4
+t19,State Only,2,10,0.2,26.1
+t19,Action Only,1,10,0.1,21.7

@@ -1,0 +1,125 @@
+{
+  "task": "t18_open_micropipette_box",
+  "condition": "State Only",
+  "seed": 0,
+  "request_number": 1,
+  "model": "gpt-6.1-terra",
+  "reference_episode": 14175,
+  "reference_frames": 25,
+  "excerpt_frame_indices": [
+    0,
+    1
+  ],
+  "reference": {
+    "src": "assets/examples/t18-state-reference.txt",
+    "sha256": "7bfce90778085941149074ecb561ac4dc80ddd1d4c59d3cb91af095e8997462d",
+    "side_order": [
+      "right",
+      "left"
+    ],
+    "per_side_layout": [
+      "palm_xyz_m3",
+      "palm_rotvec_rad3",
+      "hand_joint_rad20"
+    ]
+  },
+  "observation": {
+    "src": "assets/examples/t18-call-001-observation.json",
+    "physical_step": 0,
+    "images": [
+      {
+        "camera": "main",
+        "src": "assets/examples/t18-call-001-main.png",
+        "sha256": "3f25784301e05e59854e207ca2dbf6d3e4a619505fbe8aa0d9abbd7dd233281c"
+      },
+      {
+        "camera": "wrist_left",
+        "src": "assets/examples/t18-call-001-wrist_left.png",
+        "sha256": "6c7b29b9aa7c61bd10447a64bfb02b0254665b17ed6a57fa54884cef722c4f84"
+      },
+      {
+        "camera": "wrist_right",
+        "src": "assets/examples/t18-call-001-wrist_right.png",
+        "sha256": "78f18b092483765c0dfc7d23de6c2bcc3006a0b4d6179e8986541ce1a0dc705e"
+      }
+    ]
+  },
+  "feedback": {
+    "src": "assets/examples/t18-call-001-feedback.json",
+    "status": "schedule_executed",
+    "executed_actions": 13,
+    "next_physical_step": 13
+  },
+  "function_call": {
+    "src": "assets/examples/t18-call-001-function.json",
+    "name": "move_eef",
+    "arguments": {
+      "left": {
+        "joints_rad": [
+          0.96,
+          0.33,
+          0.2,
+          -0.28,
+          0.43,
+          -0.1,
+          -0.07,
+          -0.045,
+          0.43,
+          0,
+          -0.015,
+          0.02,
+          0.36,
+          -0.12,
+          0.05,
+          0.18,
+          0.14,
+          -0.08,
+          0.12,
+          0.13
+        ],
+        "rpy_deg": null,
+        "xyz": [
+          -0.4,
+          0.26,
+          0.98
+        ]
+      },
+      "right": {
+        "joints_rad": [
+          1.18,
+          0.44,
+          0.06,
+          0.07,
+          0.47,
+          -0.2,
+          -0.05,
+          -0.02,
+          0.31,
+          -0.23,
+          -0.05,
+          0.064,
+          0.23,
+          -0.07,
+          -0.04,
+          0.067,
+          0.13,
+          -0.02,
+          -0.01,
+          0.166
+        ],
+        "rpy_deg": null,
+        "xyz": [
+          -0.395,
+          -0.2,
+          1.01
+        ]
+      }
+    }
+  },
+  "source_hashes": {
+    "request_sha256": "e420954281bbf59ec02af7dbacd015e81cd3e3641db8b7a0b38b073eaa22c296",
+    "response_sha256": "34e96a7b0edda7222b12cff4eb438c2ec6b3b4c75d848e62afb0a17c5e0a81a0",
+    "next_request_sha256": "39edb2db0481bbe2284fecf5b1ee44e462d647db1b19bae324e644aa1c8f241e",
+    "result_sha256": "3e2edb9243e2ac404d5fe344e050d6376f16a9fb1c249411ac293958a31508a1"
+  }
+}

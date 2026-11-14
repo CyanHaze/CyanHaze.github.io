@@ -1,0 +1,9 @@
+condition,dimensions,successes,trials,success_rate
+PRH,52,9,10,0.9
+PR,12,4,10,0.4
+PH,46,1,10,0.1
+RH,46,1,10,0.1
+P,6,1,10,0.1
+R,6,1,10,0.1
+H,40,0,10,0.0
+META,0,2,10,0.2
